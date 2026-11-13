@@ -1,12 +1,23 @@
-# Zirex-Ui-Library-Field
-Zirex Gen 2
-Zirex is a private gen 2 Rayfield system.
-The default theme is crimson.
-this belongs to Zirex Hub (Me the owner)
-Credits to the official Rayfield 
-This isn't stolen, this is used under my safe circumstances.
+# ⚡ Zirex UI Library Field (Gen 2)
 
-This is only used by Zirex Hub Nothing Else. This is private if you rebranded we need to talk.
+> **A private, highly customized Gen 2 Rayfield system built exclusively for Zirex Hub.**
 
-Credits to The official Rayfield once again.
-Peace.
+## 📌 About
+This repository hosts the custom UI framework for **Zirex Hub**. It is a heavily modified fork of the Rayfield Gen 2 library, tailored specifically to match the Zirex aesthetic and performance needs. 
+
+*   **Default Theme:** Crimson (Black & White theme also available).
+*   **Owner:** Zirex Hub (xeniadeobfuscater-ux)
+*   **Status:** Private / Internal Use
+
+## ⚠️ Usage & Security Notice
+This library is **strictly for Zirex Hub**. 
+*   **Do not** attempt to re-brand, fork, or distribute this specific version without explicit permission from the owner.
+*   If you wish to use a customized Rayfield, please create your own fork from the official source.
+*   If you see this library being used elsewhere without credit to Zirex Hub, please contact the owner.
+
+## 💳 Credits
+*   **Official Rayfield:** Massive credits to the Sirius Software team for the original Gen 2 foundation.
+*   **License:** This project operates under the **MPL 2.0 License**. This is not a stolen asset; it is a safe, legal modification built upon open-source software.
+
+---
+*Peace. 🫡*
