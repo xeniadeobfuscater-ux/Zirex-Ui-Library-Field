@@ -36,7 +36,7 @@ This is not a public resource. This is the proprietary UI backbone for Zirex Hub
 2. **No Unauthorized Redistribution:** This repository is private/protected. You may not distribute, leak, or share this specific `.luau` file with third-party script hubs or forums.
 3. **Open-Source Respect:** While this is built upon the MPL 2.0 License from the original Sirius Software (Rayfield), the **Zirex-specific modifications** (centering, custom themes, specific layout tweaks) are the intellectual property of the Zirex Hub owner.
 4. **Liability:** If you attempt to edit this code and break it (e.g., causing an incomplete file or syntax error), the owner of Zirex Hub is not responsible for any lost functionality. 
-5. **Trademark Warning:** The name "Zirex Hub", the custom "C" logo, and the specific centered layout are protected under common law trademark rules. Do not use our branding on your own forks.
+5. **Trademark Warning:** The name "Zirex Hub", the custom "Z" logo, and the specific centered layout are protected under common law trademark rules. Do not use our branding on your own forks.
 
 > *If you wish to build your own UI, please fork the original Rayfield library. Do not steal or tamper with the Zirex modifications.*
 
