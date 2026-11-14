@@ -57,4 +57,21 @@ If you are reviewing this code, here is what makes it different from standard Ra
 *   **UI Modifications:** Zirex Hub Development Team.
 
 ---
+
+---
+<br>
+
+> ### ⚠️ FINAL WARNING: READ BEFORE PROCEEDING
+> **1. Modification Risk:** Do not attempt to edit, slice, or rebuild this specific centered file. If you break the syntax or cut off the script (like previous unstable versions), the entire UI will fail to load, and you will be left with a blank screen.
+> 
+> **2. Anti-Cheat Notice:** While the Zirex UI is optimized, using scripts in public games carries inherent risks. We are not responsible if a game's anti-cheat detects your executor and bans your Roblox account. **Use on alt accounts at your own risk.**
+> 
+> **3. Redistribution is Strictly Prohibited:** If you are caught leaking this specific `.luau` file or claiming the centered UI as your own work, you will be blacklisted from future Zirex updates, and a DMCA takedown will be filed.
+> 
+> **4. No Support for Broken Forks:** If you steal this code, modify it, and it breaks—do not ask us for help. We only support the original, unmodified file hosted in this repository.
+
+<br>
+
+---
+*Zirex Hub Development Team © 2026. All rights reserved.*
 *Protected by the Zirex Development Team. Do not break what you cannot build.* 🫡
