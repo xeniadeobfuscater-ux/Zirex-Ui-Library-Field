@@ -2,6 +2,10 @@
 
 > **A private, fully customized, and natively centered Gen 2 Rayfield system built exclusively for the Zirex Hub ecosystem.**
 
+## 📚 Official Documentation
+**Read the full developer guide and API reference here:**
+👉 **[https://zirexhubdocs.edgeone.dev/](https://zirexhubdocs.edgeone.dev/)**
+
 ---
 
 ## 🛡️ Notice to Platform Moderators & Reviewers
@@ -17,7 +21,7 @@ This repository is intended for private, internal use by the Zirex Development T
 ## 📌 Project Overview
 Welcome to the official repository for the **Zirex UI Library**. This project is a heavily modified, standalone fork of the Rayfield Gen 2 framework. It has been completely re-engineered from the ground up to feature a natively centered layout, a custom baked-in Black & White theme, and optimized loading sequences.
 
-This is not a public resource. This is the proprietary UI backbone for Zirex Hub. We do not distribute this file to the public, nor do we authorize its use in other script hubs. 
+This is not a public resource. This is the proprietary UI backbone for Zirex Hub. 
 
 ## ⚙️ Core Features
 *   **Natively Centered UI:** The window, tabs, and typography are mathematically centered for a premium feel.
@@ -28,15 +32,16 @@ This is not a public resource. This is the proprietary UI backbone for Zirex Hub
 
 ---
 
-## ⚠️ Strict Copyright & Modification Policy (Real-World Rules Apply)
+## ⚠️ Usage & Modification Policy (Real-World Rules Apply)
 
 **PLEASE READ CAREFULLY. BY ACCESSING THIS REPOSITORY, YOU AGREE TO THE FOLLOWING TERMS:**
 
-1. **Do Not Modify & Claim:** You are strictly prohibited from modifying this source code and claiming it as your own work. If you are caught re-uploading this specific centered layout under a different name, a DMCA takedown will be issued.
-2. **No Unauthorized Redistribution:** This repository is private/protected. You may not distribute, leak, or share this specific `.luau` file with third-party script hubs or forums.
-3. **Open-Source Respect:** While this is built upon the MPL 2.0 License from the original Sirius Software (Rayfield), the **Zirex-specific modifications** (centering, custom themes, specific layout tweaks) are the intellectual property of the Zirex Hub owner.
-4. **Liability:** If you attempt to edit this code and break it (e.g., causing an incomplete file or syntax error), the owner of Zirex Hub is not responsible for any lost functionality. 
-5. **Trademark Warning:** The name "Zirex Hub", the custom "Z" logo, and the specific centered layout are protected under common law trademark rules. Do not use our branding on your own forks.
+1. **Usage is Allowed (with Credit):** You are allowed to use this library to build your own scripts or UIs. However, you **must** leave the Zirex Hub branding, logo, and credits intact. You may not claim the UI framework as your own creation.
+2. **Modification is Strictly Prohibited:** You are **NOT** allowed to edit, modify, decompile, or alter the source code of this library. If you are caught modifying this specific centered layout or theme and claiming it as your own, a DMCA takedown will be issued.
+3. **No Unauthorized Redistribution:** This repository is private/protected. You may not distribute, leak, or share this specific `.luau` file with third-party script hubs or forums.
+4. **Open-Source Respect:** While this is built upon the MPL 2.0 License from the original Sirius Software (Rayfield), the **Zirex-specific modifications** (centering, custom themes, specific layout tweaks) are the intellectual property of the Zirex Hub owner.
+5. **Liability:** If you attempt to edit this code and break it (e.g., causing an incomplete file or syntax error), the owner of Zirex Hub is not responsible for any lost functionality. 
+6. **Trademark Warning:** The name "Zirex Hub", the custom "Z" logo, and the specific centered layout are protected under common law trademark rules. Do not use our branding on your own forks.
 
 > *If you wish to build your own UI, please fork the original Rayfield library. Do not steal or tamper with the Zirex modifications.*
 
@@ -46,23 +51,22 @@ This is not a public resource. This is the proprietary UI backbone for Zirex Hub
 If you are reviewing this code, here is what makes it different from standard Rayfield:
 *   **Root Directory:** Changed from `"Rayfield"` to `"ZirexHub"` to prevent cache conflicts.
 *   **Theme Injection:** `Themes["black"]` and `Themes["Black and White"]` have been injected directly into the `Themes` table so they load instantly.
-*   **Icon Alteration:** The `constants.icons.rayfield` has been swapped to a custom asset ID (`118458336329283`) to display the Zirex logo instead of the default Rayfield logo.
+*   **Icon Alteration:** The `constants.icons.rayfield` has been swapped to a custom asset ID to display the Zirex logo instead of the default Rayfield logo.
 *   **Layout Adjustments:** The standard `UDim2.new(0.5, 0, 0.5, 0)` positioning has been tweaked on the main window frame to ensure it is perfectly centered on all screen sizes.
 
 ---
 
-## 💳 Credits & Licensing
+## 💖 Credits & Licensing
 *   **Original Framework:** Massive credit to the Sirius Software team for the original Rayfield Gen 2 foundation.
 *   **License:** This project operates under the **MPL 2.0 License**. All original copyright headers must remain intact in the source code.
 *   **UI Modifications:** Zirex Hub Development Team.
 
 ---
 
----
 <br>
 
 > ### ⚠️ FINAL WARNING: READ BEFORE PROCEEDING
-> **1. Modification Risk:** Do not attempt to edit, slice, or rebuild this specific centered file. If you break the syntax or cut off the script (like previous unstable versions), the entire UI will fail to load, and you will be left with a blank screen.
+> **1. Modification Risk:** Do not attempt to edit, slice, or rebuild this specific centered file. If you break the syntax or cut off the script, the entire UI will fail to load, and you will be left with a blank screen.
 > 
 > **2. Anti-Cheat Notice:** While the Zirex UI is optimized, using scripts in public games carries inherent risks. We are not responsible if a game's anti-cheat detects your executor and bans your Roblox account. **Use on alt accounts at your own risk.**
 > 
@@ -74,4 +78,3 @@ If you are reviewing this code, here is what makes it different from standard Ra
 
 ---
 *Zirex Hub Development Team © 2026. All rights reserved.*
-*Protected by the Zirex Development Team. Do not break what you cannot build.* 🫡
